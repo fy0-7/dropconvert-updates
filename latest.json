@@ -1,8 +1,12 @@
 {
- "version": "2.4.1",
- "url": "https://raw.githubusercontent.com/fy0-7/dropconvert-updates/main/Sahlvert-Setup-2.4.1.exe",
- "sha256": "c7353122e436e56e211f7b540794ff210f030c46048097117276ff143dbe6197",
- "size": 82667584,
- "notes": "Terms of Use, Privacy Policy and Refund Policy are now in the app (tray menu > Terms & privacy). Your files still never leave your PC.",
- "sig": "9IqI2SG7npIIlJLSe3lbJABcpIgVOpcYASZyV1px00y5YOKRsn1kdstHc25YMY34WNDXqVux4R/cxN31fCISDg=="
+ "version": "2.6.0",
+ "url": "https://raw.githubusercontent.com/fy0-7/dropconvert-updates/main/Seeghati-Setup-2.6.0.exe",
+ "sha256": "0cff0f2f669a596c2de602d555f295b1f776e78368239c46e6f7cedf4374b4fe",
+ "size": 94089532,
+ "notes": "Seeghati: the new name of your converter. New: 3D models (STL, 3MF, OBJ, PLY, OFF, GLB) with exact geometry, plus pictures and a PDF sheet of any model. Faster PDF to Word for tables, and video format changes without re-encoding. Your files still never leave your PC.",
+ "channel": "public",
+ "rollout": 100,
+ "pulled": [],
+ "sig": "lBe28Usr4J/U8xeOuuLvWD1OoTRhzGnbLoeRTBQro/kzB+erCCb83I/BlOj5yAZZMOuxUDepO8H6kOahMWZgBQ==",
+ "sig2": "qfptBQDmyM6z6X1goF4EsYwq6Cl7xEUbf3ydD1bZ0C8ytQ26jxZpV16mio34r2mG5njqIlJp65d3t4pQl0VxAA=="
 }
