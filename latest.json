@@ -1,12 +1,12 @@
 {
- "version": "2.6.1",
- "url": "https://github.com/fy0-7/dropconvert-updates/releases/download/v2.6.1/Seeghati-Setup-2.6.1.exe",
- "sha256": "4ad6d5da7d46c62badc053b4d7134e8a6f55b927950e2319014e3977a2e72ca9",
- "size": 97316638,
- "notes": "Seeghati 2.6.1: scanned PDFs with tables become real Word tables (unsure Arabic words marked in yellow), Word and PDF files become PowerPoint. Your files still never leave your PC.",
+ "version": "2.6.2",
+ "url": "https://github.com/fy0-7/seeghati-updates/releases/download/v2.6.2/Seeghati-Setup.exe",
+ "sha256": "5932014a6fcf9f2e722b851b574669a9a9d15179722bce972ec32d91a67ac30a",
+ "size": 97723591,
+ "notes": "Seeghati 2.6.2: Word files become Excel sheets that keep the logo, letterhead, fonts, colours and pictures. Your files still never leave your PC.",
  "channel": "public",
  "rollout": 100,
  "pulled": [],
- "sig": "2mWmc32X9zmIO9ou/95Gs/owZSWMmITqmhxGfJB0VB5cigeAqq1YLGMzBOXx5bY1lI9S2ckSOe8YN33mLqonAA==",
- "sig2": "Yq+R1Vqah56W+NkwdyXQDI21HIklyMYAy8cntzy5wKvNnSbK7Fl8qkXzgYIyWHQnYuYAWYgnWvvkUkxdczYPAQ=="
+ "sig": "Zdcw1x+J4f1Q0UWl6GLIpRRoM/MZg+diy4NQOLlZFlJzRXZVIyXGF1qbeVyvvWEz5nTHEXu5X12gI8+2+wKDCg==",
+ "sig2": "cLknPW93EPjbAyXEAmiI29PAJDyhBkFrnbUEzzGRBiTF0CVgUg1xgqi5qPSfwS7Z5vA7JCe9K7rEzAv4GglEBw=="
 }
