@@ -1,12 +1,12 @@
 {
  "version": "2.6.1",
- "url": "https://raw.githubusercontent.com/fy0-7/dropconvert-updates/main/Seeghati-Setup-2.6.1.exe",
+ "url": "https://github.com/fy0-7/dropconvert-updates/releases/download/v2.6.1/Seeghati-Setup-2.6.1.exe",
  "sha256": "4ad6d5da7d46c62badc053b4d7134e8a6f55b927950e2319014e3977a2e72ca9",
  "size": 97316638,
  "notes": "Seeghati 2.6.1: scanned PDFs with tables become real Word tables (unsure Arabic words marked in yellow), Word and PDF files become PowerPoint. Your files still never leave your PC.",
  "channel": "public",
  "rollout": 100,
  "pulled": [],
- "sig": "RaKrcVegHzqZ4lKm8UpAAlH5Lz3ktTpMqo7zFuzumAUzQB3l/OtONXStSz9ooXYJXsPogSQOQXzJP75PdxSuDA==",
- "sig2": "TA5ZJK/UVUFGwG0oIAYugUQYNJOU7iKBLrN8tr100TjsveKVE2QJoWHFa+xhiXkzYr2+d5b56+QlK8fpEdg0DQ=="
+ "sig": "2mWmc32X9zmIO9ou/95Gs/owZSWMmITqmhxGfJB0VB5cigeAqq1YLGMzBOXx5bY1lI9S2ckSOe8YN33mLqonAA==",
+ "sig2": "Yq+R1Vqah56W+NkwdyXQDI21HIklyMYAy8cntzy5wKvNnSbK7Fl8qkXzgYIyWHQnYuYAWYgnWvvkUkxdczYPAQ=="
 }
