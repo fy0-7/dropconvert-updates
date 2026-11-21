@@ -1,12 +1,12 @@
 {
- "version": "2.6.2",
- "url": "https://github.com/fy0-7/seeghati-updates/releases/download/v2.6.2/Seeghati-Setup.exe",
- "sha256": "5932014a6fcf9f2e722b851b574669a9a9d15179722bce972ec32d91a67ac30a",
- "size": 97723591,
- "notes": "Seeghati 2.6.2: Word files become Excel sheets that keep the logo, letterhead, fonts, colours and pictures. Your files still never leave your PC.",
+ "version": "2.7.0",
+ "url": "https://github.com/fy0-7/seeghati-updates/releases/download/v2.7.0/Seeghati-Setup.exe",
+ "sha256": "c447e932b21345e0e696294262d7202db6c6ed8a018bc3e17ba9d0da5f4529a6",
+ "size": 104056842,
+ "notes": "Seeghati 2.7.0: new Edit PDF - change the text already in a PDF, add text, pictures, shapes, links and form fields, watermarks, page numbers, headers and footers, fill and lock forms, organise, resize, print several pages per sheet, split. Arabic and English. Your files still never leave your PC.",
  "channel": "public",
  "rollout": 100,
  "pulled": [],
- "sig": "Zdcw1x+J4f1Q0UWl6GLIpRRoM/MZg+diy4NQOLlZFlJzRXZVIyXGF1qbeVyvvWEz5nTHEXu5X12gI8+2+wKDCg==",
- "sig2": "cLknPW93EPjbAyXEAmiI29PAJDyhBkFrnbUEzzGRBiTF0CVgUg1xgqi5qPSfwS7Z5vA7JCe9K7rEzAv4GglEBw=="
+ "sig": "dRuynDOK0FzlrENEoMEm+m5ligFHIz7T5WLS1sQRlU/6G1zGloEI5+RZhr/S2/EuX0roBfY93clqEHuOmjUFBw==",
+ "sig2": "a7GkF4Qi390xS0vwRd6KW2PUB0kN0KNdZPpyIFRoI5T2SBSHeNAlXfUd0f7+QTB5bCD/3gys4HiaeYjrEi7vDg=="
 }
